@@ -1,0 +1,6 @@
+@ProjetoWebApiNatan_HostAddress = http://localhost:5005
+
+GET {{ProjetoWebApiNatan_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

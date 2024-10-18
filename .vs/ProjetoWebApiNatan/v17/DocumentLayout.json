@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno Noite\\source\\repos\\ProjetoWebApiNatan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36AADDCC-9C43-4D2C-BE62-EADC0831A612}|ProjetoWebApiNatan.csproj|c:\\users\\aluno noite\\source\\repos\\projetowebapinatan\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36AADDCC-9C43-4D2C-BE62-EADC0831A612}|ProjetoWebApiNatan.csproj|solutionrelative:controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36AADDCC-9C43-4D2C-BE62-EADC0831A612}|ProjetoWebApiNatan.csproj|c:\\users\\aluno noite\\source\\repos\\projetowebapinatan\\controllers\\membrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36AADDCC-9C43-4D2C-BE62-EADC0831A612}|ProjetoWebApiNatan.csproj|solutionrelative:controllers\\membrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36AADDCC-9C43-4D2C-BE62-EADC0831A612}|ProjetoWebApiNatan.csproj|c:\\users\\aluno noite\\source\\repos\\projetowebapinatan\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36AADDCC-9C43-4D2C-BE62-EADC0831A612}|ProjetoWebApiNatan.csproj|solutionrelative:controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36AADDCC-9C43-4D2C-BE62-EADC0831A612}|ProjetoWebApiNatan.csproj|c:\\users\\aluno noite\\source\\repos\\projetowebapinatan\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36AADDCC-9C43-4D2C-BE62-EADC0831A612}|ProjetoWebApiNatan.csproj|solutionrelative:controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36AADDCC-9C43-4D2C-BE62-EADC0831A612}|ProjetoWebApiNatan.csproj|c:\\users\\aluno noite\\source\\repos\\projetowebapinatan\\controllers\\emprestimocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36AADDCC-9C43-4D2C-BE62-EADC0831A612}|ProjetoWebApiNatan.csproj|solutionrelative:controllers\\emprestimocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36AADDCC-9C43-4D2C-BE62-EADC0831A612}|ProjetoWebApiNatan.csproj|c:\\users\\aluno noite\\source\\repos\\projetowebapinatan\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36AADDCC-9C43-4D2C-BE62-EADC0831A612}|ProjetoWebApiNatan.csproj|solutionrelative:controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 381,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 19,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReservaController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\source\\repos\\ProjetoWebApiNatan\\Controllers\\ReservaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReservaController.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\source\\repos\\ProjetoWebApiNatan\\Controllers\\ReservaController.cs",
+              "RelativeToolTip": "Controllers\\ReservaController.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAkwJ4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:18:49.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MembroController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\source\\repos\\ProjetoWebApiNatan\\Controllers\\MembroController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MembroController.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\source\\repos\\ProjetoWebApiNatan\\Controllers\\MembroController.cs",
+              "RelativeToolTip": "Controllers\\MembroController.cs",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAkwK8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:18:07.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LivroController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\source\\repos\\ProjetoWebApiNatan\\Controllers\\LivroController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LivroController.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\source\\repos\\ProjetoWebApiNatan\\Controllers\\LivroController.cs",
+              "RelativeToolTip": "Controllers\\LivroController.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAkwK8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:17:10.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FuncionarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\source\\repos\\ProjetoWebApiNatan\\Controllers\\FuncionarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FuncionarioController.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\source\\repos\\ProjetoWebApiNatan\\Controllers\\FuncionarioController.cs",
+              "RelativeToolTip": "Controllers\\FuncionarioController.cs",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAYwLIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:16:16.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmprestimoController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\source\\repos\\ProjetoWebApiNatan\\Controllers\\EmprestimoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmprestimoController.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\source\\repos\\ProjetoWebApiNatan\\Controllers\\EmprestimoController.cs",
+              "RelativeToolTip": "Controllers\\EmprestimoController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAIwBkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:10:40.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\source\\repos\\ProjetoWebApiNatan\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\source\\repos\\ProjetoWebApiNatan\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "Controllers\\CategoriaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:05:36.601Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
